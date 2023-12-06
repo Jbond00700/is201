@@ -1,0 +1,39 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blue;
+    background-image: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/39/78/3a.jpg");
+}
+
+
+
+img{
+display:block;
+border:solid purple 3px;
+padding: 5px;
+margin: auto;
+margin-top: 5px;
+margin-bottom: 5px;
+width: 50%;
+
+
+}
+
+h3{
+border: dashed green 5px;
+text-align: center;
+}
+
+.lotr{
+font-family: cursive;
+color: red;
+size: 50px;
+font-weight: bold;
+border: solid 3px fuchsia;
+}
+
+.lotr:hover {
+text-decoration: line-through;
+font-size: 2%;
+background-color:greenyellow;
+
+}
